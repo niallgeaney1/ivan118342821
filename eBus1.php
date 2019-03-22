@@ -78,7 +78,7 @@ $_SESSION['txtTotal'] = $totalValue;
             <center>
                 <input type="button" name="btnCalc" id="btnCalc" onclick="calcSub()" value="Calculate"/>
                 <input type="button" name="btnClear" id="btnClear" onclick="AmountClear()" value="Clear"/>
-                <input type="submit" name="btnProceed" id="btnProceed" onclick="eBus2.php" value="Proceed"/>
+                <input type="submit" name="btnProceed" id="btnProceed" onclick="" value="Proceed"/>
             </center>
            
             </form>
