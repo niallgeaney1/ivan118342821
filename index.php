@@ -109,7 +109,7 @@ li a:hover {
 </center><br><br><br><br>
 
 <center>
-    <a href="https://dashboard.heroku.com/apps/website118342821heroku/deploy/github" class="button">Go to Heroku</a>
+    <a href="https://ivan118342821.herokuapp.com/index.php" class="button">Go to Heroku</a>
 </center><br><br><br><br>
 
 <center>
